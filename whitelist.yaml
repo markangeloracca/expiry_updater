@@ -1,0 +1,7 @@
+vulnerabilities:
+  CVE-2024-12345:
+    - spring-roll:
+      - expirationDate: 2024-11-23
+  CVE-2024-12345:
+    - spring-beans:
+      - expirationDate: 2024-11-23
